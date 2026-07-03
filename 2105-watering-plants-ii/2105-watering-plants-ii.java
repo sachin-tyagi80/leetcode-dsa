@@ -30,3 +30,11 @@ class Solution {
         return refill;        
     }
 }
+
+
+
+
+// "I use two pointers. Alice starts from the left, and Bob starts from the right. I keep track of the remaining water in both watering cans.
+// If either doesn't have enough water for the current plant, they refill before watering it. 
+// When both meet at the same plant, the one with more remaining water waters it; if both have the same water, 
+// Alice waters it. Since each plant is processed once, the time complexity is O(n) and the space complexity is O(1)."
