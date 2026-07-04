@@ -22,3 +22,10 @@ class Solution {
         return new String(arr);
     }
 }
+
+
+
+
+// "I use the Two Pointer approach. One pointer starts from the left and the other from the right. 
+// Both pointers skip non-vowel characters using indexOf(). When both point to vowels, I swap them and continue. 
+// Finally, I convert the character array back to a string. The solution runs in O(n) time and uses O(n) extra space."
