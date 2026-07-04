@@ -15,6 +15,7 @@ My Java solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0031-next-permutation) |
 | [2079-watering-plants](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2105-watering-plants-ii) |
 ## Simulation
@@ -25,6 +26,7 @@ My Java solutions to LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [2105-watering-plants-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2105-watering-plants-ii) |
 <!---LeetCode Topics End-->
