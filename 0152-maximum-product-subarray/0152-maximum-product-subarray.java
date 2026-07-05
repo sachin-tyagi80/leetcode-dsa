@@ -18,3 +18,10 @@ class Solution {
         return ans;
     }
 }
+
+
+
+// "I maintain both the maximum and minimum product ending at the current index because a negative number can turn the smallest product into the largest one. 
+// Whenever I encounter a negative element, I swap the current maximum and minimum products before updating them. 
+// Then I update the answer with the maximum product seen so far. 
+// Since I process each element only once, the time complexity is O(n) and the space complexity is O(1)."
