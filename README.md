@@ -10,6 +10,7 @@ My Java solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
@@ -28,6 +29,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [2105-watering-plants-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2105-watering-plants-ii) |
 ## Dynamic Programming
