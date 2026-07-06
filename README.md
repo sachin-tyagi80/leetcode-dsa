@@ -18,6 +18,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0031-next-permutation](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0152-maximum-product-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
+| [0605-can-place-flowers](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2079-watering-plants](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2105-watering-plants-ii) |
@@ -37,4 +38,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
