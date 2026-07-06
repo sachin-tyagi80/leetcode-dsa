@@ -16,3 +16,9 @@ class Solution {
         
     }
 }
+
+
+
+// **First, I find the maximum number of candies among all kids. Then, for each kid,
+// I check whether candies[i] + extraCandies is greater than or equal to that maximum. 
+// If yes, I add true to the result; otherwise, I add false. This requires two linear traversals, giving an overall time complexity of O(n).`
