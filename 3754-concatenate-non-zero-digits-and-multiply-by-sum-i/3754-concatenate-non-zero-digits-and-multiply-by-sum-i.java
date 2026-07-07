@@ -17,3 +17,8 @@ class Solution {
         
     }
 }
+
+
+
+// "I traverse each digit of the number once. For every non-zero digit, I append it to a new number x and add it to the digit sum. 
+// Finally, I return x * sum. Since each digit is processed only once, the time complexity is O(d) and the space complexity is O(1)."
