@@ -7,6 +7,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
