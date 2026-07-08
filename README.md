@@ -17,6 +17,7 @@ My Java solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
@@ -33,6 +34,7 @@ My Java solutions to LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
