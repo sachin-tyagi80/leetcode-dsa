@@ -18,6 +18,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0031-next-permutation) |
+| [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0605-can-place-flowers) |
@@ -44,4 +45,12 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0605-can-place-flowers) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
