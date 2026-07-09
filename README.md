@@ -12,6 +12,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
@@ -51,6 +52,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 ## Union-Find
 |  |
 | ------- |
