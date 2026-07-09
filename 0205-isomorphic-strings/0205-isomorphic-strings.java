@@ -20,3 +20,9 @@ class Solution {
         return true;
     }
 }
+
+
+// "Since the input contains only ASCII characters, I use two arrays of size 256 instead of HashMaps. 
+// Each array stores the last seen position of a character. While traversing both strings, 
+// the last seen positions of the current characters must always match. If they don't, the strings are not isomorphic. 
+// This solution runs in O(n) time with O(1) extra space and is faster than the HashMap approach due to direct array indexing."
