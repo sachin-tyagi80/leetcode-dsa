@@ -27,3 +27,10 @@ class Solution {
         
     }
 }
+
+
+
+// "I use two HashMaps to maintain a one-to-one mapping between the characters of both strings. 
+// One map stores the mapping from s to t, and the other stores the reverse mapping from t to s. 
+// While traversing both strings, I verify that every existing mapping is consistent. 
+// If any mismatch is found, I return false; otherwise, I return true. The solution runs in O(n) time."
