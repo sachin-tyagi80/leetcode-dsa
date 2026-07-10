@@ -19,3 +19,9 @@ class Solution {
         return new int[0];
     }
 }
+
+
+// "I use a HashMap to store each number along with its index. For every element, 
+// I calculate its complement (target - current). If the complement already exists in the map, 
+// I return the stored index and the current index. Otherwise, I store the current number in the map. 
+// This approach finds the answer in one pass with O(n) time complexity and O(n) extra space."
