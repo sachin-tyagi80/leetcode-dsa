@@ -18,6 +18,7 @@ My Java solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
@@ -51,6 +52,7 @@ My Java solutions to LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 ## Union-Find
