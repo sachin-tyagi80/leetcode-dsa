@@ -12,3 +12,9 @@ class Solution {
         
     }
 }
+
+
+
+// "I use Kadane's Algorithm. I maintain a running sum of the current subarray and, at each element, 
+// decide whether to extend the current subarray or start a new one from the current element. 
+// I update the maximum sum seen so far during the traversal. This solution runs in O(n) time and uses O(1) extra space."
