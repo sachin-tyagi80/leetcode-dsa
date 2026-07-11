@@ -21,6 +21,7 @@ My Java solutions to LeetCode problems.
 | [0001-two-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
@@ -44,6 +45,7 @@ My Java solutions to LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
@@ -59,4 +61,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
