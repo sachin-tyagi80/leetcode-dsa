@@ -30,6 +30,7 @@ My Java solutions to LeetCode problems.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2079-watering-plants](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2105-watering-plants-ii) |
+| [2256-minimum-average-difference](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2256-minimum-average-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -70,4 +71,5 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [2256-minimum-average-difference](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2256-minimum-average-difference) |
 <!---LeetCode Topics End-->
