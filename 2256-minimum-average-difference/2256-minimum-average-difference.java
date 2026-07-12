@@ -37,3 +37,15 @@ class Solution {
         return answer;
     }
 }
+
+
+
+
+
+
+
+
+// "I use a Prefix Sum approach. First, I calculate the total sum of the array. Then I traverse the array while maintaining the prefix sum. 
+// For each index, the left sum is the prefix sum, and the right sum is the total sum minus the prefix sum. Using these sums, 
+// I compute the left and right averages with integer division, calculate their absolute difference,
+// and keep track of the minimum difference and its index. This solution runs in O(n) time and O(1) extra space."
