@@ -38,3 +38,10 @@ class Solution {
         return ans;
     }
 }
+
+
+// "I first pair each player's age and score, then sort them by age and, if the ages are equal, by score. After sorting,
+// I apply Dynamic Programming similar to the Longest Increasing Subsequence. dp[i] stores the maximum team score ending with player i. 
+// For each player, I check all previous players. If the previous player's score is less than or equal to the current player's score,
+// they can be on the same team without conflict, so I update the DP value. Finally, I return the maximum value in the DP array. 
+// The solution runs in O(n²) time and O(n) space
