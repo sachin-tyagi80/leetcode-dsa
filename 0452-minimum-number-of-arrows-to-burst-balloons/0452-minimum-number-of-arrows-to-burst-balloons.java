@@ -27,3 +27,12 @@ class Solution {
         
     }
 }
+
+
+
+
+
+// "I use a Greedy strategy. First, I sort all balloons by their ending coordinate. Then I shoot the first arrow at the end of the first balloon. 
+// This arrow bursts every balloon whose starting coordinate is less than or equal to the arrow position. Whenever I find a balloon whose start is greater 
+// than the current arrow position, I need a new arrow, so I increase the arrow count and move the arrow to that balloon's end. 
+// This greedy choice minimizes the total number of arrows."
