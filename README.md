@@ -29,6 +29,7 @@ My Java solutions to LeetCode problems.
 | [0152-maximum-product-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -61,6 +62,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
@@ -86,6 +88,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1626-best-team-with-no-conflicts](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1626-best-team-with-no-conflicts) |
 ## Number Theory
 |  |
