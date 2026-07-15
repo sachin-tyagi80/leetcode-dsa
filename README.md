@@ -7,6 +7,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -86,4 +87,8 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [1626-best-team-with-no-conflicts](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1626-best-team-with-no-conflicts) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
