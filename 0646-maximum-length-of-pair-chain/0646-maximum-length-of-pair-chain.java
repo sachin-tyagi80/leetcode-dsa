@@ -14,3 +14,9 @@ class Solution {
         
     }
 }
+
+
+
+// "I use a Greedy strategy similar to the Activity Selection problem. First, I sort all pairs by their ending value. Then I always select the pair that 
+// finishes earliest because it leaves the maximum space for future pairs. I keep track of the end of the last selected pair. 
+// If the current pair starts after the last selected pair ends, I include it in the chain. This greedy choice guarantees the maximum chain length."
