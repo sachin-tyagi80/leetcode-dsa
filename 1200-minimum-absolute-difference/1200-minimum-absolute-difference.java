@@ -25,3 +25,9 @@ class Solution {
         return ans;
     }
 }
+
+
+
+// "I first sort the array because the minimum absolute difference can only occur between adjacent elements in a sorted array. 
+// Then I make one pass to find the minimum difference and another pass to collect all adjacent pairs having that difference. 
+// This avoids checking all possible pairs and gives an efficient O(n log n) solution."
