@@ -34,6 +34,7 @@ My Java solutions to LeetCode problems.
 | [0485-max-consecutive-ones](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [1200-minimum-absolute-difference](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1626-best-team-with-no-conflicts](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1626-best-team-with-no-conflicts) |
 | [2079-watering-plants](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2079-watering-plants) |
@@ -97,6 +98,7 @@ My Java solutions to LeetCode problems.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [1200-minimum-absolute-difference](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1626-best-team-with-no-conflicts](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1626-best-team-with-no-conflicts) |
 ## Number Theory
 |  |
