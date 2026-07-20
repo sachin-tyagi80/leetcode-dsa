@@ -19,3 +19,9 @@ class Solution {
         
     }
 }
+
+
+// "I calculate the difference (A - B) for every person and sort the array based on this difference.
+// A large negative difference means sending that person to City A saves more money, while a large positive
+// difference favors City B. After sorting, I send the first half of the people to City A and the remaining
+// half to City B. This greedy strategy guarantees the minimum total cost."
