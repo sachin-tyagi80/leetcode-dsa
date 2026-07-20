@@ -37,6 +37,7 @@ My Java solutions to LeetCode problems.
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1200-minimum-absolute-difference) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1626-best-team-with-no-conflicts](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1626-best-team-with-no-conflicts) |
 | [2079-watering-plants](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2079-watering-plants) |
@@ -75,6 +76,7 @@ My Java solutions to LeetCode problems.
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +106,7 @@ My Java solutions to LeetCode problems.
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1200-minimum-absolute-difference) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1626-best-team-with-no-conflicts](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1626-best-team-with-no-conflicts) |
 ## Number Theory
 |  |
@@ -113,4 +116,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1221-split-a-string-in-balanced-strings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
