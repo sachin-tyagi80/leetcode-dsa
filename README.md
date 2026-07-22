@@ -7,6 +7,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1323-maximum-69-number](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1323-maximum-69-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -78,6 +79,7 @@ My Java solutions to LeetCode problems.
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1323-maximum-69-number) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Hash Table
 |  |
