@@ -1,27 +1,46 @@
 class Solution {
     public int bagOfTokensScore(int[] tokens, int power) {
+         // Sort tokens in increasing order
         Arrays.sort(tokens);
-        int l = 0;
-        int r = tokens.length-1;
-        int score =0;
-        int max = 0;
-        while(l<=r){
-            if(power >= tokens[l]){
-                power -= tokens[l];
+
+        int left = 0;
+        int right = tokens.length - 1;
+
+        int score = 0;
+        int maxScore = 0;
+
+        while (left <= right) {
+
+            // Play smallest token face-up
+            if (power >= tokens[left]) {
+
+                power -= tokens[left];
+
                 score++;
-                max = Math.max(max,score);
-                l++;
+
+                maxScore = Math.max(maxScore, score);
+
+                left++;
             }
 
-            else if(score > 0){
-                power += tokens[r];
+            // Play largest token face-down
+            else if (score > 0) {
+
+                power += tokens[right];
+
                 score--;
-                r--;
+
+                right--;
             }
-            else{
+
+            // No move possible
+            else {
+
                 break;
             }
         }
-        return max;
+
+        return maxScore;
+        
     }
 }
