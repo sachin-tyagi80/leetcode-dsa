@@ -37,6 +37,7 @@ My Java solutions to LeetCode problems.
 | [0485-max-consecutive-ones](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [0860-lemonade-change](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -77,6 +78,7 @@ My Java solutions to LeetCode problems.
 | [0455-assign-cookies](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [0860-lemonade-change](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1323-maximum-69-number) |
