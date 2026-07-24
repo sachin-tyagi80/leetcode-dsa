@@ -26,6 +26,7 @@ My Java solutions to LeetCode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0134-gas-station) |
@@ -67,6 +68,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
@@ -75,6 +77,7 @@ My Java solutions to LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
