@@ -132,4 +132,20 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
