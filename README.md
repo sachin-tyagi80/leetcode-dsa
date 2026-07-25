@@ -25,6 +25,7 @@ My Java solutions to LeetCode problems.
 | [0001-two-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +68,7 @@ My Java solutions to LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -77,6 +79,7 @@ My Java solutions to LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0135-candy) |
