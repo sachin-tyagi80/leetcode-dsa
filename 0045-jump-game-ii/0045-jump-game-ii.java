@@ -30,3 +30,10 @@ class Solution {
         return jumps;
     }
 }
+
+
+// Interview Explanation
+
+// "I solved this problem using a greedy approach. I treat each jump as a range of reachable indices. While traversing the current range,
+// I continuously update the farthest index that can be reached. When I reach the end of the current range, I increment the jump count and extend the range
+// to the farthest reachable index. This ensures that each jump covers the maximum possible distance, resulting in the minimum number of jumps."
