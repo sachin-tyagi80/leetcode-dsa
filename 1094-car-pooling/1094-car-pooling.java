@@ -6,20 +6,18 @@ class Solution {
             int start = trip[1];
             int end = trip[2];
 
-
             diff[start] += passengers;
             diff[end] -= passengers;
         }
-
-        int current = 0;
+        int curr = 0;
         for(int i=0;i<=1000;i++){
-            current += diff[i];
+            curr += diff[i];
 
-            if(current>capacity){
+            if(curr > capacity){
                 return false;
             }
         }
-        return true; 
+        return true;
         
     }
 }
