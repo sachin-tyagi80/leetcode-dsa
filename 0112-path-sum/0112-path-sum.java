@@ -23,6 +23,7 @@ class Solution {
         }
         targetSum -= root.val;
 
-        return hasPathSum(root.left,targetSum) || hasPathSum(root.right,targetSum);
+        return hasPathSum(root.left, targetSum) || hasPathSum(root.right, targetSum);
+        
     }
 }
