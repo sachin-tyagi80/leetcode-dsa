@@ -7,7 +7,7 @@ class Solution {
 
         int max1 = 0;
         int max2 = 0;
-        for(int num : nums){
+        for(int num : nums){ // O(n)
             if(num>max1){
                 max2 = max1;
                 max1 = num;
@@ -21,3 +21,7 @@ class Solution {
         
     }
 }
+
+
+// "Yes, sorting is a valid solution. After sorting in ascending order, the last two elements are the largest, so their (value - 1) product gives the maximum result.
+// This takes O(n log n) time. However, we can optimize it to O(n) by finding the largest and second-largest elements in a single pass without sorting."
