@@ -42,6 +42,7 @@ My Java solutions to LeetCode problems.
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0948-bag-of-tokens) |
+| [0994-rotting-oranges](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1200-minimum-absolute-difference) |
@@ -161,9 +162,14 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0100-same-tree](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0112-path-sum) |
+| [0994-rotting-oranges](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0112-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
