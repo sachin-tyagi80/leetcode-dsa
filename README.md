@@ -6,6 +6,7 @@ My Java solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1323-maximum-69-number](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1323-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -44,6 +45,7 @@ My Java solutions to LeetCode problems.
 | [0605-can-place-flowers](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0877-stone-game) |
 | [0948-bag-of-tokens](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1029-two-city-scheduling) |
@@ -84,6 +86,7 @@ My Java solutions to LeetCode problems.
 | [0152-maximum-product-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [0877-stone-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0877-stone-game) |
 | [1626-best-team-with-no-conflicts](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1626-best-team-with-no-conflicts) |
 ## Greedy
 |  |
@@ -189,4 +192,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
