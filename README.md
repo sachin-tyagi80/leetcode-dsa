@@ -20,6 +20,7 @@ My Java solutions to LeetCode problems.
 | [1071-greatest-common-divisor-of-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
@@ -102,6 +103,7 @@ My Java solutions to LeetCode problems.
 | [1221-split-a-string-in-balanced-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1323-maximum-69-number) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2706-buy-two-chocolates](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -111,6 +113,7 @@ My Java solutions to LeetCode problems.
 | [0001-two-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0205-isomorphic-strings) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Union-Find
 |  |
 | ------- |
@@ -140,6 +143,7 @@ My Java solutions to LeetCode problems.
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1626-best-team-with-no-conflicts](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1626-best-team-with-no-conflicts) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2706-buy-two-chocolates](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2706-buy-two-chocolates) |
 ## Number Theory
