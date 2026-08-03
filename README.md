@@ -196,4 +196,12 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
