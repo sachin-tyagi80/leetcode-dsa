@@ -47,6 +47,7 @@ My Java solutions to LeetCode problems.
 | [0860-lemonade-change](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0881-boats-to-save-people) |
+| [0941-valid-mountain-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0941-valid-mountain-array) |
 | [0948-bag-of-tokens](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1029-two-city-scheduling](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1029-two-city-scheduling) |
