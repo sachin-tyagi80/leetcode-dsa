@@ -19,6 +19,7 @@ My Java solutions to LeetCode problems.
 | [0151-reverse-words-in-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -78,6 +79,7 @@ My Java solutions to LeetCode problems.
 | [0151-reverse-words-in-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0948-bag-of-tokens) |
 | [2105-watering-plants-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2105-watering-plants-ii) |
@@ -122,6 +124,7 @@ My Java solutions to LeetCode problems.
 | [0001-two-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0205-isomorphic-strings) |
+| [0567-permutation-in-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3731-find-missing-elements](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Union-Find
@@ -221,4 +224,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
