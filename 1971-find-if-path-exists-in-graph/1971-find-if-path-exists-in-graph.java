@@ -47,3 +47,10 @@ class Solution {
         return false;
     }
 }
+
+
+// Interview Explanation — English
+
+// "I will use DFS to check whether there is a path from the source to the destination. First, I build an adjacency list because the graph is bidirectional,
+// so for every edge [u,v], I add v to u's list and u to v's list. Then I start DFS from the source and maintain a visited array to avoid cycles. 
+// If I reach the destination, I return true. If DFS finishes without reaching the destination, I return false."
