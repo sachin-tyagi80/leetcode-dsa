@@ -131,6 +131,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,12 +186,14 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0100-same-tree](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0112-path-sum) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0112-path-sum) |
 | [0994-rotting-oranges](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -228,4 +231,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0567-permutation-in-string) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
