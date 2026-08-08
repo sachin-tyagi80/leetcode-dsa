@@ -2,14 +2,14 @@ class Solution {
 
     public boolean validPath(int n, int[][] edges, int source, int destination) {
 
-        // Adjacency List
-        ArrayList<Integer>[] graph = new ArrayList[n];
+        // Adjacency list
+        List<Integer>[] graph = new ArrayList[n];
 
         for (int i = 0; i < n; i++) {
             graph[i] = new ArrayList<>();
         }
 
-        // Add edges
+        // Build graph
         for (int[] edge : edges) {
             int u = edge[0];
             int v = edge[1];
@@ -18,32 +18,27 @@ class Solution {
             graph[v].add(u);
         }
 
-        // DFS
-        boolean[] vis = new boolean[n];
+        boolean[] visited = new boolean[n];
 
-        return dfs(graph, source, destination, vis);
+        return dfs(source, destination, graph, visited);
     }
 
-    public boolean dfs(
-            ArrayList<Integer>[] graph,
-            int curr,
-            int destination,
-            boolean[] vis) {
+    private boolean dfs(int node, int destination,
+                        List<Integer>[] graph,
+                        boolean[] visited) {
 
-        // Destination mil gaya
-        if (curr == destination) {
+        // Destination found
+        if (node == destination) {
             return true;
         }
 
-        // Current vertex visited
-        vis[curr] = true;
+        visited[node] = true;
 
-        // Check neighbours
-        for (int neighbor : graph[curr]) {
+        for (int neighbor : graph[node]) {
 
-            if (!vis[neighbor]) {
+            if (!visited[neighbor]) {
 
-                if (dfs(graph, neighbor, destination, vis)) {
+                if (dfs(neighbor, destination, graph, visited)) {
                     return true;
                 }
             }
