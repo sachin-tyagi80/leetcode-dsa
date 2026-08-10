@@ -134,6 +134,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
@@ -190,12 +191,14 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0100-same-tree](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0112-path-sum) |
+| [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0112-path-sum) |
+| [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -241,5 +244,14 @@ My Java solutions to LeetCode problems.
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
