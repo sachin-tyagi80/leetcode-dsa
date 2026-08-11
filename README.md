@@ -66,6 +66,7 @@ My Java solutions to LeetCode problems.
 | [2105-watering-plants-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2105-watering-plants-ii) |
 | [2256-minimum-average-difference](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2256-minimum-average-difference) |
 | [2706-buy-two-chocolates](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2706-buy-two-chocolates) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -129,6 +130,7 @@ My Java solutions to LeetCode problems.
 | [0205-isomorphic-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
@@ -166,6 +168,7 @@ My Java solutions to LeetCode problems.
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2706-buy-two-chocolates](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2706-buy-two-chocolates) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
