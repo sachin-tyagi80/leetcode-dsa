@@ -17,3 +17,14 @@ class Solution {
         return prefix;
     }
 }
+
+
+// 🎤 Interview Explanation
+
+// Interview mein aise bol sakte ho:
+
+// “I take the first string as the initial prefix. Then I compare it with every other string. If the current string does not start with the prefix, 
+// I remove the last character from the prefix until it matches. If the prefix becomes empty, there is no common prefix, so I return an empty string.
+// Finally, I return the remaining prefix.”
+
+Hindi mein:
