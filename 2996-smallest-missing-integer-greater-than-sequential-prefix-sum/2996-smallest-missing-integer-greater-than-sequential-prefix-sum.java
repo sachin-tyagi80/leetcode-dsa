@@ -27,3 +27,8 @@ class Solution {
         
     }
 }
+
+
+// “First, I find the longest sequential prefix by checking whether every next element is exactly one greater than the previous element. 
+// I calculate the sum of this prefix. Then I put all array elements into a HashSet for O(1) average lookup. Starting from the prefix sum, 
+// I keep increasing the value while it exists in the set. The first value not present in the set is the answer.”
