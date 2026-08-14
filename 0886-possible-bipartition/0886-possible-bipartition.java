@@ -1,11 +1,19 @@
+import java.util.*;
+
 class Solution {
+
     public boolean possibleBipartition(int n, int[][] dislikes) {
-        ArrayList<Integer>[] graph = new ArrayList[n+1];
-        for(int i=1;i<=n;i++){
+
+        // Create graph
+        ArrayList<Integer>[] graph = new ArrayList[n + 1];
+
+        for (int i = 1; i <= n; i++) {
             graph[i] = new ArrayList<>();
         }
 
-        for(int[] edge : dislikes){
+        // Build undirected graph
+        for (int[] edge : dislikes) {
+
             int u = edge[0];
             int v = edge[1];
 
@@ -13,32 +21,61 @@ class Solution {
             graph[v].add(u);
         }
 
-        int[] color = new int[n+1];
+        // -1 = not colored
+        //  0 = Group 0
+        //  1 = Group 1
+        int[] color = new int[n + 1];
+
         Arrays.fill(color, -1);
 
-        for(int i =1;i<=n;i++){
-            if(color[i] == -1){
-                color[i] = 0;
-                if(!dfs(i,graph,color)){
+        // Graph can have multiple components
+        for (int i = 1; i <= n; i++) {
+
+            if (color[i] == -1) {
+
+                if (!bfs(i, graph, color)) {
                     return false;
                 }
             }
         }
+
         return true;
-        
     }
-    private boolean dfs(int curr, ArrayList<Integer>[] graph,int[] color){
-        for(int neighbor : graph[curr]){
-            if(color[neighbor] == -1){
-                color[neighbor] = 1 - color[curr];
-                if(!dfs(neighbor,graph,color)){
+
+    private boolean bfs(
+            int start,
+            ArrayList<Integer>[] graph,
+            int[] color) {
+
+        Queue<Integer> queue = new LinkedList<>();
+
+        // Start node ko Group 0
+        color[start] = 0;
+        queue.add(start);
+
+        while (!queue.isEmpty()) {
+
+            int curr = queue.remove();
+
+            for (int neighbor : graph[curr]) {
+
+                // Neighbor not colored
+                if (color[neighbor] == -1) {
+
+                    // Opposite group
+                    color[neighbor] = 1 - color[curr];
+
+                    queue.add(neighbor);
+                }
+
+                // Same group -> invalid
+                else if (color[neighbor] == color[curr]) {
+
                     return false;
                 }
             }
-            else if(color[neighbor] == color[curr]){
-                return false;
-            }
         }
+
         return true;
     }
 }
