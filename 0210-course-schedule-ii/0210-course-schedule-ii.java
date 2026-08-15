@@ -2,32 +2,32 @@ import java.util.*;
 
 class Solution {
 
-    public int[] findOrder(int num, int[][] pre) {
+    public int[] findOrder(int numCourses, int[][] prerequisites) {
 
-        ArrayList<Integer>[] graph = new ArrayList[num];
+        ArrayList<Integer>[] graph = new ArrayList[numCourses];
 
         // Create graph
-        for (int i = 0; i < num; i++) {
+        for (int i = 0; i < numCourses; i++) {
             graph[i] = new ArrayList<>();
         }
 
         // Build graph
-        for (int[] edge : pre) {
+        for (int[] edge : prerequisites) {
 
-            int u = edge[0];
-            int v = edge[1];
+            int course = edge[0];
+            int prerequisite = edge[1];
 
             // prerequisite -> course
-            graph[v].add(u);
+            graph[prerequisite].add(course);
         }
 
-        boolean[] vis = new boolean[num];
-        boolean[] stack = new boolean[num];
+        boolean[] vis = new boolean[numCourses];
+        boolean[] stack = new boolean[numCourses];
 
         Stack<Integer> st = new Stack<>();
 
-        // DFS
-        for (int i = 0; i < num; i++) {
+        // DFS for every component
+        for (int i = 0; i < numCourses; i++) {
 
             if (!vis[i]) {
 
@@ -40,7 +40,7 @@ class Solution {
         }
 
         // Topological order
-        int[] ans = new int[num];
+        int[] ans = new int[numCourses];
 
         int index = 0;
 
@@ -58,28 +58,35 @@ class Solution {
             boolean[] stack,
             Stack<Integer> st) {
 
+        // Mark visited
         vis[curr] = true;
+
+        // Put in current DFS path
         stack[curr] = true;
 
+        // Visit neighbours
         for (int neigh : graph[curr]) {
 
+            // Not visited
             if (!vis[neigh]) {
 
                 if (dfs(neigh, graph, vis, stack, st)) {
                     return true;
                 }
 
-            } else if (stack[neigh]) {
+            }
 
-                // Cycle exists
+            // Already in current DFS path
+            else if (stack[neigh]) {
+
                 return true;
             }
         }
 
-        // Current DFS path se bahar
+        // Remove from current DFS path
         stack[curr] = false;
 
-        // Topological sorting
+        // Add to topological stack
         st.push(curr);
 
         return false;
