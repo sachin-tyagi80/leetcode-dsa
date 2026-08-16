@@ -22,3 +22,11 @@ class Solution {
         }
     }
 }
+
+
+// Interview me final 30-second ans
+    
+// "I treat the cities as an undirected graph, where the matrix represents the edges. A province is a connected component. 
+// I maintain a visited array and iterate over every city. Whenever I find an unvisited city, I increment the province count and run DFS from that city.
+// DFS marks the entire connected component as visited, so it won't be counted again. Finally, I return the number of connected components.
+// The time complexity is O(n²) because we use an adjacency matrix, and the space complexity is O(n)."
