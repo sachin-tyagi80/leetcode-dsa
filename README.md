@@ -140,6 +140,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
@@ -201,6 +202,7 @@ My Java solutions to LeetCode problems.
 | [0112-path-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
@@ -211,6 +213,7 @@ My Java solutions to LeetCode problems.
 | [0112-path-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0994-rotting-oranges) |
@@ -261,6 +264,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0207-course-schedule](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
