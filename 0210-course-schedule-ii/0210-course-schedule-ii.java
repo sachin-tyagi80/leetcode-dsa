@@ -92,3 +92,11 @@ class Solution {
         return false;
     }
 }
+
+
+// 🎯 Interview mein short explanation
+
+// "I first build a directed graph from prerequisite to course. Then I use DFS. vis[] tracks already visited nodes, while stack[] tracks nodes in the current DFS recursion path. If I find an already visited neighbour that is also present in the current recursion path, a cycle exists, so no valid ordering is possible. Otherwise, after processing all neighbours, I push the current node into a stack. Finally, I pop all nodes from the stack to get the topological ordering."
+
+// Time Complexity: O(V + E)
+// Space Complexity: O(V + E)
