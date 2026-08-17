@@ -42,6 +42,7 @@ My Java solutions to LeetCode problems.
 | [0134-gas-station](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -140,6 +141,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0886-possible-bipartition) |
@@ -200,6 +202,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0100-same-tree](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0547-number-of-provinces) |
@@ -212,6 +215,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0100-same-tree](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0547-number-of-provinces) |
@@ -228,6 +232,7 @@ My Java solutions to LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0994-rotting-oranges) |
 ## Counting Sort
 |  |
