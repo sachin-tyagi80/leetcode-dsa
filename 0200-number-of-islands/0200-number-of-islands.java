@@ -115,3 +115,73 @@ class Solution {
 // cell → 4 neighboring cells → DFS
 // Main pattern yaad rakho:
 // New unvisited land → count++ → DFS/BFS → complete island mark visited.
+
+
+///////////////////////////////////////////////////////////////
+////Bas ek caveat: Agar interviewer kahe "Input grid ko modify nahi kar sakte", tab boolean[][] vis use karna.
+// class Solution {
+
+//     public int numIslands(char[][] grid) {
+
+//         int rows = grid.length;
+//         int cols = grid[0].length;
+
+//         boolean[][] vis = new boolean[rows][cols];
+
+//         int count = 0;
+
+//         for (int i = 0; i < rows; i++) {
+
+//             for (int j = 0; j < cols; j++) {
+
+//                 // Land + not visited = new island
+//                 if (grid[i][j] == '1' && !vis[i][j]) {
+
+//                     count++;
+
+//                     dfs(grid, vis, i, j);
+//                 }
+//             }
+//         }
+
+//         return count;
+//     }
+
+//     private void dfs(
+//             char[][] grid,
+//             boolean[][] vis,
+//             int row,
+//             int col) {
+
+//         // Boundary check
+//         if (row < 0 || row >= grid.length ||
+//             col < 0 || col >= grid[0].length) {
+//             return;
+//         }
+
+//         // Water
+//         if (grid[row][col] == '0') {
+//             return;
+//         }
+
+//         // Already visited
+//         if (vis[row][col]) {
+//             return;
+//         }
+
+//         // Mark visited
+//         vis[row][col] = true;
+
+//         // Up
+//         dfs(grid, vis, row - 1, col);
+
+//         // Down
+//         dfs(grid, vis, row + 1, col);
+
+//         // Left
+//         dfs(grid, vis, row, col - 1);
+
+//         // Right
+//         dfs(grid, vis, row, col + 1);
+//     }
+// }
