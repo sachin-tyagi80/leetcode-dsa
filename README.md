@@ -50,6 +50,7 @@ My Java solutions to LeetCode problems.
 | [0485-max-consecutive-ones](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [0695-max-area-of-island](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0860-lemonade-change](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0881-boats-to-save-people) |
@@ -143,6 +144,7 @@ My Java solutions to LeetCode problems.
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
@@ -206,6 +208,7 @@ My Java solutions to LeetCode problems.
 | [0207-course-schedule](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0886-possible-bipartition) |
@@ -219,6 +222,7 @@ My Java solutions to LeetCode problems.
 | [0207-course-schedule](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0886-possible-bipartition) |
@@ -233,6 +237,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0994-rotting-oranges) |
 ## Counting Sort
 |  |
