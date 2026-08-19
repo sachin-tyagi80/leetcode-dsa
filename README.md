@@ -148,6 +148,7 @@ My Java solutions to LeetCode problems.
 | [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -213,6 +214,7 @@ My Java solutions to LeetCode problems.
 | [0841-keys-and-rooms](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -228,6 +230,7 @@ My Java solutions to LeetCode problems.
 | [0886-possible-bipartition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -281,6 +284,7 @@ My Java solutions to LeetCode problems.
 | [0841-keys-and-rooms](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Coloring
 |  |
 | ------- |
