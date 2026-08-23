@@ -10,6 +10,7 @@ My Java solutions to LeetCode problems.
 | [1071-greatest-common-divisor-of-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1323-maximum-69-number) |
+| [1927-sum-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -27,6 +28,7 @@ My Java solutions to LeetCode problems.
 | [1221-split-a-string-in-balanced-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1927-sum-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
@@ -126,6 +128,7 @@ My Java solutions to LeetCode problems.
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1927-sum-game) |
 | [2706-buy-two-chocolates](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
@@ -261,6 +264,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0877-stone-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
