@@ -76,6 +76,7 @@ My Java solutions to LeetCode problems.
 | [2706-buy-two-chocolates](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2706-buy-two-chocolates) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -144,6 +145,7 @@ My Java solutions to LeetCode problems.
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
