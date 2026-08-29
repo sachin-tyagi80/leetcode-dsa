@@ -43,4 +43,4 @@ class Solution {
 /////////////////////////////////////////////////////////////////////////////////////
 // "A single left-to-right pass only ensures that every child has more candies than the left neighbor when required. It completely ignores situations where a
 // child must have more candies than the right neighbor. For example, in ratings [3,2,1], the left pass gives [1,1,1], which violates both neighbor conditions. 
-// Therefore, a second pass from right to left is necessary."
+// Therefore, a second pass from right to left is necessary.
