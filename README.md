@@ -71,6 +71,7 @@ My Java solutions to LeetCode problems.
 | [1626-best-team-with-no-conflicts](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1626-best-team-with-no-conflicts) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2079-watering-plants](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2079-watering-plants) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2105-watering-plants-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2105-watering-plants-ii) |
 | [2256-minimum-average-difference](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2256-minimum-average-difference) |
 | [2706-buy-two-chocolates](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2706-buy-two-chocolates) |
@@ -132,6 +133,7 @@ My Java solutions to LeetCode problems.
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
