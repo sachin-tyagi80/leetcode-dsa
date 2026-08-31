@@ -19,6 +19,6 @@ class Solution {
             }
         }
 
-        return longest;        
+        return longest;    
     }
 }
