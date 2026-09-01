@@ -77,6 +77,7 @@ My Java solutions to LeetCode problems.
 | [2706-buy-two-chocolates](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2706-buy-two-chocolates) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -147,6 +148,7 @@ My Java solutions to LeetCode problems.
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Union-Find
@@ -251,6 +253,7 @@ My Java solutions to LeetCode problems.
 | [1042-flower-planting-with-no-adjacent](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2685-count-the-number-of-complete-components) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -263,6 +266,7 @@ My Java solutions to LeetCode problems.
 | [0200-number-of-islands](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
 |  |
 | ------- |
@@ -347,4 +351,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
