@@ -84,6 +84,7 @@ My Java solutions to LeetCode problems.
 | [3731-find-missing-elements](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
@@ -178,6 +179,7 @@ My Java solutions to LeetCode problems.
 | [1140-stone-game-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2256-minimum-average-difference](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2256-minimum-average-difference) |
+| [3903-smallest-stable-index-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
