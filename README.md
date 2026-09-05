@@ -363,4 +363,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
