@@ -49,6 +49,7 @@ My Java solutions to LeetCode problems.
 | [0135-candy](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -175,6 +176,7 @@ My Java solutions to LeetCode problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [1094-car-pooling](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1140-stone-game-ii) |
@@ -306,6 +308,7 @@ My Java solutions to LeetCode problems.
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Graph Theory
@@ -368,4 +371,8 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0584-find-customer-referee](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0595-big-countries) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
