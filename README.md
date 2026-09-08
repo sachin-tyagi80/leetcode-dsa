@@ -380,6 +380,7 @@ My Java solutions to LeetCode problems.
 | [0620-not-boring-movies](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Search
 |  |
