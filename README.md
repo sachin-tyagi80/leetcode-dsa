@@ -383,6 +383,7 @@ My Java solutions to LeetCode problems.
 | [1148-article-views-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1729-find-followers-count) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Search
 |  |
