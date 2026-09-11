@@ -1,35 +1,44 @@
-import java.util.*;
-
 class Solution {
     public int totalNumbers(int[] digits) {
 
-        Set<Integer> set = new HashSet<>();
+        int[] freq = new int[10];
 
-        for (int i = 0; i < digits.length; i++) {
-            for (int j = 0; j < digits.length; j++) {
-                for (int k = 0; k < digits.length; k++) {
+        for (int digit : digits) {
+            freq[digit]++;
+        }
 
-                    if (i == j || j == k || i == k) {
-                        continue;
-                    }
+        int count = 0;
 
-                    if (digits[i] == 0) {
-                        continue;
-                    }
+        for (int num = 100; num <= 998; num++) {
 
-                    if (digits[k] % 2 != 0) {
-                        continue;
-                    }
+            if (num % 2 != 0) {
+                continue;
+            }
 
-                    int num = digits[i] * 100
-                            + digits[j] * 10
-                            + digits[k];
+            int a = num / 100;
+            int b = (num / 10) % 10;
+            int c = num % 10;
 
-                    set.add(num);
+            int[] need = new int[10];
+
+            need[a]++;
+            need[b]++;
+            need[c]++;
+
+            boolean possible = true;
+
+            for (int d = 0; d <= 9; d++) {
+                if (need[d] > freq[d]) {
+                    possible = false;
+                    break;
                 }
+            }
+
+            if (possible) {
+                count++;
             }
         }
 
-        return set.size();
+        return count;
     }
 }
