@@ -99,14 +99,14 @@ WHERE salary < (
 -- But ye unnecessarily complex hai. First solution better hai.
 
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
--- SELECT (
---     SELECT DISTINCT salary
---     FROM Employee
---     ORDER BY salary DESC
---     LIMIT 1 OFFSET 1
--- ) AS SecondHighestSalary;
+SELECT (
+    SELECT DISTINCT salary
+    FROM Employee
+    ORDER BY salary DESC
+    LIMIT 1 OFFSET 1
+) AS SecondHighestSalary;
 
 -- 🎯 Interview Explanation
 
