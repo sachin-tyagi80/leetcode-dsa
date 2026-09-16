@@ -389,6 +389,7 @@ My Java solutions to LeetCode problems.
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1211-queries-quality-and-percentage) |
+| [1527-patients-with-a-condition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1729-find-followers-count) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1978-employees-whose-manager-left-the-company) |
