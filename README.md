@@ -393,6 +393,7 @@ My Java solutions to LeetCode problems.
 | [1633-percentage-of-users-attended-a-contest](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1729-find-followers-count) |
+| [1789-primary-department-for-each-employee](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1789-primary-department-for-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Search
