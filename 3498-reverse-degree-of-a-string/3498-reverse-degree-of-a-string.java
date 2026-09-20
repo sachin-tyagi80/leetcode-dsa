@@ -4,10 +4,10 @@ class Solution {
         for(int i=0;i<s.length();i++){
             char c = s.charAt(i);
 
-            int reverse = 26 - (c - 'a');
+            int reversePosition = 26 - (c - 'a');
+            int stringPostion = i+1;
 
-            int position = i+1;
-            ans += reverse * position;
+            ans += reversePosition * stringPostion;
         }
         return ans;
         
