@@ -15,6 +15,7 @@ My Java solutions to LeetCode problems.
 | [1927-sum-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -85,6 +86,7 @@ My Java solutions to LeetCode problems.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3731-find-missing-elements) |
@@ -125,6 +127,7 @@ My Java solutions to LeetCode problems.
 | [0877-stone-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1626-best-team-with-no-conflicts](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1626-best-team-with-no-conflicts) |
+| [3524-find-x-value-of-array-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
