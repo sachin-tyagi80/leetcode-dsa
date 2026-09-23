@@ -31,6 +31,7 @@ My Java solutions to LeetCode problems.
 | [0345-reverse-vowels-of-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -126,6 +127,7 @@ My Java solutions to LeetCode problems.
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1626-best-team-with-no-conflicts](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1626-best-team-with-no-conflicts) |
 | [3524-find-x-value-of-array-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
@@ -408,4 +410,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
