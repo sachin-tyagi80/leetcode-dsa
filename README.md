@@ -396,6 +396,7 @@ My Java solutions to LeetCode problems.
 | [0619-biggest-single-number](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1211-queries-quality-and-percentage) |
