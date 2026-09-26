@@ -401,6 +401,7 @@ My Java solutions to LeetCode problems.
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1211-queries-quality-and-percentage) |
+| [1280-students-and-examinations](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
