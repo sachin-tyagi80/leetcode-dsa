@@ -28,6 +28,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0205-isomorphic-strings) |
@@ -123,6 +124,7 @@ My Java solutions to LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0055-jump-game) |
@@ -375,6 +377,7 @@ My Java solutions to LeetCode problems.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0797-all-paths-from-source-to-target) |
 ## Recursion
 |  |
@@ -435,5 +438,6 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
