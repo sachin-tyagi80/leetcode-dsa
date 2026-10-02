@@ -28,6 +28,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
@@ -111,6 +112,7 @@ My Java solutions to LeetCode problems.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0455-assign-cookies) |
