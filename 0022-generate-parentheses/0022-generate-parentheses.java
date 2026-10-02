@@ -1,28 +1,47 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList<>();
-        backtrack("",0,0,n,res);
 
-        return res;
-        
+        List<String> result = new ArrayList<>();
+
+        backtrack("", 0, 0, n, result);
+
+        return result;
     }
+
     private void backtrack(
-        String curr,
+        String current,
         int open,
         int close,
         int n,
-        List<String> res
-    ){
-        if(open == n && close == n){
-            res.add(curr);
+        List<String> result
+    ) {
+
+        // String complete
+        if (open == n && close == n) {
+            result.add(current);
             return;
         }
 
-        if(open<n){
-           backtrack(curr + "(",open+1,close,n,res);
+        // Add opening bracket
+        if (open < n) {
+            backtrack(
+                current + "(",
+                open + 1,
+                close,
+                n,
+                result
+            );
         }
-        if(close<open){
-            backtrack(curr + ")",open,close+1,n,res);
+
+        // Add closing bracket only when valid
+        if (close < open) {
+            backtrack(
+                current + ")",
+                open,
+                close + 1,
+                n,
+                result
+            );
         }
     }
 }
