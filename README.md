@@ -237,6 +237,7 @@ My Java solutions to LeetCode problems.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0743-network-delay-time) |
 | [1094-car-pooling](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1094-car-pooling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -258,6 +259,7 @@ My Java solutions to LeetCode problems.
 | [0210-course-schedule-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0841-keys-and-rooms) |
@@ -277,6 +279,7 @@ My Java solutions to LeetCode problems.
 | [0210-course-schedule-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0841-keys-and-rooms) |
@@ -342,6 +345,7 @@ My Java solutions to LeetCode problems.
 | [0207-course-schedule](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0841-keys-and-rooms) |
@@ -441,4 +445,12 @@ My Java solutions to LeetCode problems.
 | [0020-valid-parentheses](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
