@@ -427,6 +427,7 @@ My Java solutions to LeetCode problems.
 | [1661-average-time-of-process-per-machine](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1789-primary-department-for-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
