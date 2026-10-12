@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+# Write your MySQL query statement below
 select s.user_id,ROUND(IFNULL(SUM(c.action = 'confirmed')/ COUNT(c.action),0),2) AS confirmation_rate
 FROM Signups s
 LEFT JOIN Confirmations c
