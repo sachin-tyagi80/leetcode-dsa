@@ -1,3 +1,4 @@
+# Write your MySQL query statement below
 
 SELECT
     DATE_FORMAT(trans_date, '%Y-%m') AS month,
