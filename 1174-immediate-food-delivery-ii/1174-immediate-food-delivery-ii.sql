@@ -11,7 +11,7 @@ from
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 -- . Interviewer ko English mein kaise explain karein?
--- You can say:
+-- You can say->
 -- “The goal of this problem is to calculate the percentage of customers whose first order was delivered immediately, meaning their order date is the same as their preferred delivery date.
 
 -- First, I use a subquery with GROUP BY customer_id and MIN(order_date) to find the earliest order date for each customer.
