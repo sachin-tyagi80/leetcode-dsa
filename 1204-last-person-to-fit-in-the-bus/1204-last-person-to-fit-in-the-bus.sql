@@ -1,7 +1,13 @@
-select q1.person_name 
-from queue q1
-inner join queue q2
-on q1.turn >= q2.turn
-group by q1.turn
-having sum(q2.weight) <= 1000
-order by q1.turn desc limit 1
+# Write your MySQL query statement below
+WITH QueueWeight AS (
+    SELECT
+        person_name,
+        turn,
+        SUM(weight) OVER (ORDER BY turn) AS total_weight
+    FROM Queue
+)
+SELECT person_name
+FROM QueueWeight
+WHERE total_weight <= 1000
+ORDER BY turn DESC
+LIMIT 1;
