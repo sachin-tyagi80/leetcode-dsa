@@ -53,6 +53,7 @@ My Java solutions to LeetCode problems.
 | [0045-jump-game-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0134-gas-station) |
@@ -104,6 +105,7 @@ My Java solutions to LeetCode problems.
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
 | [1094-car-pooling](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/1094-car-pooling) |
 | [2079-watering-plants](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/2105-watering-plants-ii) |
@@ -298,6 +300,7 @@ My Java solutions to LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0994-rotting-oranges) |
