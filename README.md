@@ -69,6 +69,7 @@ My Java solutions to LeetCode problems.
 | [0605-can-place-flowers](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0695-max-area-of-island) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0881-boats-to-save-people) |
@@ -457,6 +458,7 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -480,4 +482,8 @@ My Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0743-network-delay-time) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sachin-tyagi80/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
